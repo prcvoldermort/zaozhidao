@@ -1,0 +1,38 @@
+{
+  "private": true,
+  "scripts": {
+    "prod": "gulp --production",
+    "dev": "gulp watch"
+  },
+  "devDependencies": {
+    "better-scroll": "^0.1.10",
+    "bootstrap": "^3.3.7",
+    "bootstrap-sass": "^3.0.0",
+    "extract-text-webpack-plugin": "^2.0.0-beta",
+    "font-awesome": "^4.7.0",
+    "gulp": "^3.9.1",
+    "laravel-elixir": "^6.0.0-9",
+    "laravel-elixir-vue-2": "^0.3.0",
+    "laravel-elixir-webpack-official": "^1.0.10",
+    "node-sass": "^4.1.1",
+    "sass-loader": "^4.1.1",
+    "style-loader": "^0.13.1",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^2.4.0",
+    "swiper": "^3.4.1",
+    "vue": "^2.1.6",
+    "vue-amap": "^0.1.9",
+    "vue-baidu-map": "^0.1.10",
+    "vue-html5-editor": "^1.0.2",
+    "vue-infinite-loading": "^2.0.4",
+    "vue-resource": "^1.2.1",
+    "vue-router": "^2.1.1",
+    "webpack": "^2.1.0-beta.17",
+    "webpack-stream": "^3.2.0",
+    "weui": "^1.1.0",
+    "weui.js": "^1.0.0"
+  },
+  "dependencies": {
+    "vue2-animate": "^1.0.4"
+  }
+}
